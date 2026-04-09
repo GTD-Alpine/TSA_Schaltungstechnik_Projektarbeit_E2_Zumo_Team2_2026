@@ -11,8 +11,8 @@ Autonomer Sumo-Kampfroboter auf Basis des Pololu Zumo Shield V1.2, entwickelt al
 Der Roboter erkennt Gegner per Ultraschall, bleibt innerhalb des Rings durch Infrarot-Bodensensoren und trifft alle Entscheidungen über eine nicht-blockierende Zustandsmaschine (`millis()`-basiert, kein `delay()`).
 
 **Teammitglieder:**
-- Parabellum — Sensorik, Verkabelung, Zustandsmaschine, Firmware-Integration
-- Henri Lechtenfeld — Gyro-Integration, IMU-Code
+- Timo Dennis Görlich — Verkabelung, Zustandsmaschine, Firmware-Integration, Präsentation
+- Henri Lechtenfeld — Gyro-Integration, IMU-Code, Sensorik
 
 ---
 
