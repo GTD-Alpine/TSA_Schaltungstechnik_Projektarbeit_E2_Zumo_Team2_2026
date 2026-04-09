@@ -1,8 +1,8 @@
 # Zumo Sumo-Roboter — Projektarbeit E2 Team 2 (2026)
 
-**Fachschule für Technik Kempten — Schaltungstechnik / Elektrotechnik**
+**Technikerschule Allgäu - Kempten (Allgäu) — Schaltungstechnik / Elektrotechnik**
 
-Autonomer Sumo-Kampfroboter auf Basis des Pololu Zumo Shield V1.3, entwickelt als Schulprojekt.
+Autonomer Sumo-Kampfroboter auf Basis des Pololu Zumo Shield V1.2, entwickelt als Schulprojekt.
 
 ---
 
