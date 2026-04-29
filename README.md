@@ -21,7 +21,7 @@ Der Roboter erkennt Gegner per Ultraschall, bleibt innerhalb des Rings durch Inf
 | Komponente | Details |
 |---|---|
 | Mikrocontroller | Elegoo UNO R3 (ATmega328P) |
-| Shield | Pololu Zumo Shield V1.3 |
+| Shield | Pololu Zumo Shield V1.2 |
 | Ultraschall (Front) | HC-SR04 — Trig D3 / Echo A0 |
 | Ultraschall (Heck) | HC-SR04 — Trig D11 / Echo A2 |
 | Ultraschall (Turm) | HC-SR04 — Trig D2 / Echo A3 |
@@ -94,10 +94,12 @@ A5  — I2C SCL (IMU / Gyro)
 
 ## Datenblätter & Dokumentation
 
-- [Pololu Zumo Shield V1.3 — User Manual](https://www.pololu.com/docs/0J57)
+- [Pololu Zumo Shield V1.2 — User Manual](https://www.pololu.com/docs/0J57)
 - [HC-SR04 Ultraschallsensor — Datenblatt](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
 - [LSM6DS33 IMU — Datenblatt](https://www.pololu.com/file/0J1087/LSM6DS33.pdf)
-
+- [Reflectance Sensor Array — Schaltplan](https://www.pololu.com/file/0J602/zumo-reflectance-sensor-array-schematic-diagram.pdf)
+- [Zumo Shield V1.2 — Schaltplan](https://www.pololu.com/file/0J779/zumo-shield-v1.2-schematic.pdf)
+- [Arduino Elegoo Uno — Schaltplan](https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf)
 ---
 
 ## Lizenz
